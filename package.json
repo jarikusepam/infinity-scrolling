@@ -1,0 +1,11 @@
+{
+  "name": "infinity-scrolling",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve -s"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
